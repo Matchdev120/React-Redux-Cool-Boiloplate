@@ -1,12 +1,12 @@
-# React Cool Starter 😎
+# Awesome React
 
-[![Build Status](https://travis-ci.org/wellyshen/react-cool-starter.svg?branch=master)](https://travis-ci.org/wellyshen/react-cool-starter)
-[![dependencies Status](https://david-dm.org/wellyshen/react-cool-starter/status.svg)](https://david-dm.org/wellyshen/react-cool-starter)
-[![devDependencies Status](https://david-dm.org/wellyshen/react-cool-starter/dev-status.svg)](https://david-dm.org/wellyshen/react-cool-starter?type=dev)
-[![Coverage Status](https://coveralls.io/repos/github/wellyshen/react-cool-starter/badge.svg?branch=master)](https://coveralls.io/github/wellyshen/react-cool-starter?branch=master)
+[![Build Status](https://travis-ci.org/JayDxDr197/react-cool-starter.svg?branch=master)](https://travis-ci.org/JayDxDr197/react-cool-starter)
+[![dependencies Status](https://david-dm.org/JayDxDr197/react-cool-starter/status.svg)](https://david-dm.org/JayDxDr197/react-cool-starter)
+[![devDependencies Status](https://david-dm.org/JayDxDr197/react-cool-starter/dev-status.svg)](https://david-dm.org/JayDxDr197/react-cool-starter?type=dev)
+[![Coverage Status](https://coveralls.io/repos/github/JayDxDr197/react-cool-starter/badge.svg?branch=master)](https://coveralls.io/github/JayDxDr197/react-cool-starter?branch=master)
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
-[![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/wellyshen/react-cool-starter/master/LICENSE)
-[![Twitter URL](https://img.shields.io/twitter/url/https/github.com/erikras/redux-form.svg?style=social)](https://twitter.com/intent/tweet?text=With%20@React-Cool-Starter,%20I%20can%20build%20my%20universal%20web%20app%20easily.%20Thanks,%20@Welly%20Shen!)
+[![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/JayDxDr197/react-cool-starter/master/LICENSE)
+[![Twitter URL](https://img.shields.io/twitter/url/https/github.com/erikras/redux-form.svg?style=social)](https://twitter.com/intent/tweet?text=With%20@React-Cool-Starter,%20I%20can%20build%20my%20universal%20web%20app%20easily.%20Thanks,%20@Jay%20Shen!)
 
 > 🎉 My react-native app [LeadFit](https://itunes.apple.com/app/id1321807247) now available on App Store, which is a workout app. Welcome to try, it's free!
 
@@ -14,7 +14,7 @@ A simple but feature rich starter boilerplate for creating your own [universal](
 
 I will maintain the starter boilerplate and keep all of the technologies on trend. Welcome to join me if you want. Hope you guys love it 🤩
 
-> 👻 I'm curious what kind of app that you guys building via this starter? Please feel free to [tell me](https://github.com/wellyshen/react-cool-starter/issues/6), let's make some sharing between us.
+> 👻 I'm curious what kind of app that you guys building via this starter? Please feel free to [tell me](https://github.com/JayDxDr197/react-cool-starter/issues/6), let's make some sharing between us.
 
 ## Real Case Study
 
@@ -73,14 +73,14 @@ This starter is for those who with basic knowledge of React and have the need fo
 
 ## Looking for Docker?
 
-You can find Docker support version on this [branch](https://github.com/wellyshen/react-cool-starter/tree/docker).
+You can find Docker support version on this [branch](https://github.com/JayDxDr197/react-cool-starter/tree/docker).
 
 ## Getting Started
 
 **1. You can start by cloning the repository on your local machine by running:**
 
 ```bash
-git clone https://github.com/wellyshen/react-cool-starter.git
+git clone https://github.com/JayDxDr197/react-cool-starter.git
 cd react-cool-starter
 ```
 
@@ -425,7 +425,7 @@ import styles from "./styles.scss";
 return (
   <div>
     <div>
-      <i className={styles.iconUser} /> Welly
+      <i className={styles.iconUser} /> Jay
     </div>
   </div>
 );
@@ -438,7 +438,7 @@ import "./font-awesome.css";
 return (
   <div>
     <div>
-      <i className="fa fa-icon" /> Welly
+      <i className="fa fa-icon" /> Jay
     </div>
   </div>
 );
