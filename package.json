@@ -300,7 +300,7 @@
     "@loadable/server": "^5.10.3",
     "asset-require-hook": "^1.2.0",
     "autoprefixer": "^9.7.0",
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "babel-plugin-dynamic-import-node": "^2.3.0",
     "babel-plugin-transform-remove-console": "^6.9.4",
     "better-npm-run": "^0.1.1",
